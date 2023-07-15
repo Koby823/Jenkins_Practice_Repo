@@ -1,7 +1,7 @@
 // importing the FileWriter class
 import java.io.FileWriter;
 
- class Main {
+ class FilewriterJenkins {
    public static void main(String args[]) {
 
      String data = "This is the data in the output file";
